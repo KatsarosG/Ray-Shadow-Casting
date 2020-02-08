@@ -1,4 +1,4 @@
-# Ray-Shadow-Casting
+# C++/SFML Ray-Shadow-Casting
 A basic c++/SFML ray casting algorithm.
 
 How to use:
